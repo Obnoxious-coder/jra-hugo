@@ -1,5 +1,3 @@
-# In the Name of God, the Originator the Creative
-
 titleSeparator: "-"
 titleAddition: Nuts and Dried Food
 description: >-
@@ -66,19 +64,19 @@ alertText: >-
 blogPageURL: blog
 contactLink: contact
 copyright: All right reserved copyright © Helmani 2022
-footerLogo: images/site-navigation/logo.png
+footerLogo: images/site-navigation/logo1.png
 footerContact:
   topTitle: Let's Start
   title: The Start of a Dream
   button: Get in Touch
 fabformURL: "https://fabform.io/f/JpTXRUa"
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
-logo: images/site-navigation/logo.png
+logo: images/site-navigation/logo1.png
 address:
-  address: "20 Piroozi, Sattar Khan, Tehran."
-  email: info@helmani.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  address: "B/202 2nd floor, Kini Arcade, near Petrol Pump, behind Stella Road, Prabhu Krupa Nagar, Suyog Nagar, Vasai West, Vasai-Virar, Maharashtra 401202"
+  email: jralaw@gmail.com
+  openingHours: Open from 9 am to 7 pm (close at 5pm Saturdays)
+  phone: (+91) 7276044672
 map:
   APIkey: YOUR GOOGLE MAP API
   latitude: "23.7783741"

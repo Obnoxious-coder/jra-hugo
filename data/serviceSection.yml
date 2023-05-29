@@ -1,44 +1,42 @@
 ---
 enable: true
-topTitle: Product Categories
+topTitle: Practice Areas
 title: >
-  ## Diversity in Products
 
-  From tasty dried fruits to nutritious nuts and saffron are provided by Helmani.
 service:
   - content: >
-      #### Pistachios 
+      #### Labour Law 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/pistachio.png
+    image: images/service/118.png
   - content: >
-      #### Raisins
+      #### Property Law
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/raisins.png
+    image: images/service/12.png
   - content: >
-      #### Dates 
+      #### Criminal Law 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/dates.png
+    image: images/service/154.png
   - content: >
-      #### Walnuts
+      #### Family Law
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/walnut.png
+    image: images/service/186.png
   - content: >
-      #### Saffron
+      #### Corporate Law
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/saffron.png
+    image: images/service/154.png
   - content: >
-      #### Barberries
+      #### Consumer Protection Law
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/barberry.png
+    image: images/service/24.png

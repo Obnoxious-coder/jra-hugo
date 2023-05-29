@@ -1,9 +1,9 @@
 ---
-title: "Nuts and your heart: Eating nuts for heart health"
+title: "Health Benefits of Nuts"
 date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-5.jpg
+featureImage: images/allpost/allPost-1.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: mobile
+tags: website
 categories: blog
 ---
 
