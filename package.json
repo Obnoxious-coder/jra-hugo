@@ -47,15 +47,16 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "dependencies": {
-    "@hyas/images": "^0.2.1",
+    "bootstrap": "^4.6.2",
     "gsap": "1.20.5",
     "imagesloaded": "^5.0.0",
+    "jquery": "^3.6.1",
     "lazysizes": "^5.3",
     "magnific-popup": "github:dimsemenov/Magnific-Popup",
     "quicklink": "^2.2.0",
     "slick-carousel": "^1.8.1",
-    "waypoints": "^4.0.1",
-    "popper.js": "^1.16.1"
+    "@hyas/images": "^0.2.1",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.18",
@@ -66,15 +67,12 @@
     "@fullhuman/postcss-purgecss": "^4.1",
     "auto-changelog": "^2.4",
     "autoprefixer": "^10.4",
-    "bootstrap": "^4.0.0-beta",
     "eslint": "^8.19",
     "exec-bin": "^1.0.0",
     "hugo-installer": "^3.1",
     "husky": "^8.0.1",
-    "jquery": "^3.7.0",
     "markdownlint-cli2": "^0.5.1",
     "netlify-plugin-submit-sitemap": "^0.4.0",
-    "popper.js": "^1.16.1",
     "postcss": "^8.4",
     "postcss-cli": "^10.0",
     "prettier": "^2.7.1",
