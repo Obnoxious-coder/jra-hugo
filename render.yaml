@@ -4,7 +4,7 @@ services:
   - type: web
     name: corporio # Your website name
     env: static
-    buildCommand: pnpm install; pnpm add @popperjs/core; pnpm build
+    buildCommand: npm install; npm add @popperjs/core; npm build
     staticPublishPath: ./public
     pullRequestPreviewsEnabled: true # Optional
     buildFilter:
