@@ -21,6 +21,7 @@
     "create": "exec-bin node_modules/.bin/hugo/hugo new",
     "prepare": "husky install",
     "prestart": "npm run clean",
+    "go": "npm run build && npm start",
     "start": "exec-bin node_modules/.bin/hugo/hugo server  --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost",
     "start:lan": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --baseURL=http://192.168.1.10 --port=1313",
     "forestry": "exec-bin node_modules/.bin/hugo/hugo server -D -E -F --renderToDisk -d public",
@@ -47,20 +48,21 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "dependencies": {
-    "popper.js": "^1.16.1",
+    "@hyas/images": "^0.2.1",
     "bootstrap": "^4.6.2",
     "gsap": "1.20.5",
     "imagesloaded": "^5.0.0",
     "jquery": "^3.6.1",
     "lazysizes": "^5.3",
     "magnific-popup": "github:dimsemenov/Magnific-Popup",
+    "nvm": "^0.0.4",
+    "pnpm": "^8.6.0",
+    "popper.js": "^1.16.1",
     "quicklink": "^2.2.0",
     "slick-carousel": "^1.8.1",
-    "@hyas/images": "^0.2.1",
-    "waypoints": "^4.0.1"   
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
-    "popper.js": "^1.16.1",
     "@babel/cli": "^7.18",
     "@babel/core": "^7.18",
     "@babel/preset-env": "^7.18",
@@ -75,6 +77,7 @@
     "husky": "^8.0.1",
     "markdownlint-cli2": "^0.5.1",
     "netlify-plugin-submit-sitemap": "^0.4.0",
+    "popper.js": "^1.16.1",
     "postcss": "^8.4",
     "postcss-cli": "^10.0",
     "prettier": "^2.7.1",
