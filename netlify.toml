@@ -7,7 +7,7 @@
   NPM_VERSION = "8.11.0"
 
 [context.production]
-  command = "npm add @popperjs/core && npm run build"
+  command = "npm i @popperjs/core && npm run build"
 
 [context.deploy-preview]
   command = "npm run build -- -b $DEPLOY_PRIME_URL"
