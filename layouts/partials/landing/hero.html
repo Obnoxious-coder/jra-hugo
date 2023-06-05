@@ -47,6 +47,7 @@
               {{with $asset}}
               {{ $img := $asset.Fit "1500x1000 webp" }}
               {{ end }}
+              {{ with $img}}
               <img
                 src="{{ $asset.RelPermalink }}"
                 alt="hero-image"
@@ -56,13 +57,17 @@
                   -webkit-mask-size: contain;
                   -webkit-mask-position: center center;
                 " />
-
+              {{end}}
               {{ if .videoURL }}
                 <div class="hero_figure-popup">
                   <div class="thumb">
                     {{ $asset := resources.Get .videoThumb }}
+                    {{with $asset}}
                     {{ $img := $asset.Fit "320x180 webp" }}
+                    {{end}}
+                    {{with $img}}
                     <img src="{{ $img.RelPermalink }}" alt="popup" />
+                    {{end}}
                   </div>
 
                   <a href="{{ .videoURL }}" type="button" class="popup-button text-center big">
