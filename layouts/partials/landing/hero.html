@@ -46,10 +46,9 @@
               {{ $asset := resources.Get .image }}
               {{with $asset}}
               {{ $img := $asset.Fit "1500x1000 webp" }}
-              
               {{ with $img }}
               <img
-                src="{{ $asset.RelPermalink }}"
+                src="{{ $img.RelPermalink }}"
                 alt="hero-image"
                 style="
                   -webkit-mask: url({{ "images/hero/hero-mask-svg.png" | absURL }});
@@ -81,6 +80,7 @@
                   </a>
                 </div>
               {{ end }}
+              
             </div>
           </div>
         </div>
