@@ -154,7 +154,6 @@
       "hero_blob",
       "hero_content",
       "hero_figure",
-      "hero_figure-popup",
       "hero_footer-svg",
       "hire_button",
       "icon",
@@ -191,7 +190,6 @@
       "offset-lg-3",
       "offset-md-0",
       "p-2",
-      "popup-button",
       "post-meta",
       "pr-3",
       "pre-line",
@@ -236,7 +234,6 @@
       "text-light",
       "text-right",
       "text-sm-center",
-      "thumb",
       "title",
       "top-title",
       "unstyle-list"

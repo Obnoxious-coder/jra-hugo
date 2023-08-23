@@ -2,24 +2,21 @@ main:
   - name: Home
     url: ""
     weight: 1
-  - name: Categories
+  - name: Practice Areas
     url: "#service"
     weight: 2
-  - name: Certificates
-    url: "#resume"
-    weight: 3
   - name: About
     url: "#about"
-    weight: 4
-  - name: Products
-    url: "#product"
-    weight: 5
+    weight: 3
   - name: Testimonials
     url: "#testimonial"
-    weight: 6
+    weight: 4
+  - name: Our Team
+    url: "#product"
+    weight: 5
   - name: Blog
     url: "#blog"
-    weight: 7
+    weight: 6
 sitemap:
   - name: Home
     url: ""

@@ -2,6 +2,7 @@
 title: Jane Doe
 date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/product/woman-potrait.jpg
+linkedIn: https://www.linkedin.com/feed/
 table:
   - title: Service
     description: Development, UX Design

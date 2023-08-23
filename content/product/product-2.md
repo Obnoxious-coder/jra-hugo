@@ -2,6 +2,7 @@
 title: John Doe
 date: 2020-08-12T18:07:16.000+06:00
 thumbnail: images/product/man-potraite.jpg
+linkedIn: https://www.linkedin.com/feed/
 table:
   - title: Service
     description: Development, UX Design
