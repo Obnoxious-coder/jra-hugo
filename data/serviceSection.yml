@@ -7,36 +7,30 @@ service:
   - content: >
       #### Labour Law 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Providing expert guidance in navigating the complexities of employment relationships, our Labour Law practice ensures businesses and employees alike benefit from fair and legally sound workplace solutions.
     image: images/service/118.png
   - content: >
       #### Property Law
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Unraveling the intricacies of property transactions, our Property Law team facilitates seamless real estate deals with precision, offering comprehensive legal support from acquisition to title verification.
     image: images/service/12.png
   - content: >
       #### Criminal Law 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Defending your rights with vigor, our Criminal Law practitioners bring a wealth of experience to the courtroom, tirelessly advocating for clients facing criminal charges and striving for optimal outcomes.
     image: images/service/154.png
   - content: >
       #### Family Law
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Navigating sensitive family matters, our Family Law experts provide compassionate and strategic counsel, ensuring resolutions that prioritize the well-being of all involved parties during challenging times.
     image: images/service/186.png
   - content: >
       #### Corporate Law
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Elevating your business strategies, our Corporate Law practice tailors legal solutions to safeguard your enterprise, offering insightful counsel on corporate governance, compliance, and contractual matters for sustained success.
     image: images/service/154.png
   - content: >
       #### Consumer Protection Law
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Empowering consumers with legal advocacy, our Consumer Protection Law division safeguards your rights, offering redress and guidance in cases of unfair practices, product liability, and consumer rights violations.
     image: images/service/24.png

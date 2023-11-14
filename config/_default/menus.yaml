@@ -11,12 +11,6 @@ main:
   - name: Testimonials
     url: "#testimonial"
     weight: 4
-  - name: Our Team
-    url: "#product"
-    weight: 5
-  - name: Blog
-    url: "#blog"
-    weight: 6
 sitemap:
   - name: Home
     url: ""
@@ -27,6 +21,3 @@ sitemap:
   - name: Products
     url: "product"
     weight: 3
-  - name: Blog
-    url: "blog"
-    weight: 4

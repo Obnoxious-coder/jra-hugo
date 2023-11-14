@@ -3,14 +3,11 @@ enable: true
 topTitle: About
 title: >
   ## Our Story
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 content: >
   ### We are your strategic partner
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  JRA Law Associates LLP is a legal firm established in 2003 by Adv. Ajay Corriea, with a commitment of delivering top-notch legal solutions to clients within the Mumbai Metropolitan Region and mainly around Palghar and Thane Districts. The firm has 2 partners and around 15 associates working on litigation and non-litigation projects.
+  Utilising the expertise of our team of highly experienced attorneys, our firm has established a distinguished track record of providing outstanding legal counsel and customised strategies to assist our clients in embarking upon solutions which are best suited and in a timely manner.
 button1Name: Contact Us
 button1Target: contact
 image: images/about/walnuttree.jpg

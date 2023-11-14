@@ -62,7 +62,8 @@
                       {{ $asset := resources.Get .image }}
                       {{ $img := $asset.Fit "256x256 webp" }}
                       <img
-                        style="width: 100px; height: 100px; object-fit: contain"
+                        style="width: 170px; height: 170px; object-fit: contain"
+                        class="icon-img"
                         src=" {{ $img.RelPermalink }}"
                         alt="ui-ux" />
                     </div>
