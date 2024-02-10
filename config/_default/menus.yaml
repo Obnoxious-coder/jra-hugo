@@ -2,11 +2,11 @@ main:
   - name: Home
     url: ""
     weight: 1
-  - name: Practice Areas
-    url: "#service"
-    weight: 2
   - name: About
     url: "#about"
+    weight: 2
+  - name: Practice Areas
+    url: "#service"
     weight: 3
   - name: Testimonials
     url: "#testimonial"

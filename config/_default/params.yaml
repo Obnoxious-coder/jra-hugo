@@ -63,13 +63,13 @@ alertText: >-
   the free enterprise paper →</a>
 blogPageURL: blog
 contactLink: contact
-copyright: All right reserved copyright © JRA 2022
+copyright: All right reserved copyright © JRA 2024
 footerLogo: images/site-navigation/logo1.png
 footerContact:
   topTitle: Let's Start
   title: The Start of your Legal Journey
   button: Get in Touch
-fabformURL: "https://fabform.io/f/JpTXRUa"
+fabformURL: "https://fabform.io/f/EAOEF6q"
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo1.png
 address:
@@ -84,14 +84,8 @@ map:
   pinImage: images/pin.png
 social:
   - icon: fa-facebook-official
-    url: "https://www.facebook.com/"
+    url: "https://www.facebook.com/p/JRA-Law-associates-100063663026404/"
     weight: 1
   - icon: fa-linkedin-square
-    url: "https://www.linkedin.com/"
+    url: "https://www.linkedin.com/company/jralaw/"
     weight: 2
-  - icon: fa-pinterest-square
-    url: "https://www.pinterest.com/"
-    weight: 3
-  - icon: fa-twitter-square
-    url: "https://twitter.com/"
-    weight: 4
