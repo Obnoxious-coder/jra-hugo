@@ -18,6 +18,3 @@ sitemap:
   - name: Contact Us
     url: "contact"
     weight: 2
-  - name: Products
-    url: "product"
-    weight: 3
